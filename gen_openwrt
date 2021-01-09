@@ -468,7 +468,7 @@ normal="\033[0m"
 
 allwinner="vplus"
 amlogic="phicomm-n1 s9xxx"
-rockchip="rk3328"
+rockchip="rk3328 beikeyun l1pro"
 
 device_path="./device"
 kernel_path="./common/kernel"
